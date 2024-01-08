@@ -1,0 +1,68 @@
+.color{
+  color: red;
+}
+
+.color1{
+  color:white;
+  text-decoration: none;
+}
+
+.color2{
+  color: white;
+  text-decoration: none;
+  border-radius: 15px;
+  background-color: red;
+  padding: 10px; 
+  width: 80px;
+  height: 20px;  
+
+}
+
+.tag{
+  color: white;
+}
+
+
+.container{
+  display: flex;
+  flex-direction: row;
+  padding-top: 5px;
+  justify-content: space-between;
+}
+
+.asd{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  list-style: none;
+  color:white;
+}
+.flex-container{
+  display:flex;
+  margin:10px;
+  gap:20px;
+  padding:60px;
+  font-size: 30px;
+  
+}
+
+.grid-container {
+  display: grid;
+  margin:10px;
+  padding:20px;
+  font-size: 30px;
+  gap: 20px;
+  color:white;
+  
+}
+body{
+  background-image: url("rainhard-wiesinger-w3I8D1jSFlE-unsplash.jpg");
+  height:300;
+  background-size: cover;  
+}
+
+hash1{
+  color: white;
+}
+
+
