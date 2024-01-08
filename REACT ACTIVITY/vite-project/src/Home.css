@@ -1,0 +1,42 @@
+.show1, .food{
+    padding: 10px;
+    margin: 10px;
+}
+
+/* .show{
+    background-color: rgb(144, 166, 200);
+    color:aqua;
+    text-align: center;
+} */
+
+
+
+h1{
+    text-align: center;
+}
+
+hello{
+    text-align: center;
+   
+}
+
+p{
+    text-align: center;
+    
+}
+body{
+    background-color: aqua;
+}
+.flex-container{
+    display: flex;
+    gap: 25px;
+}
+
+   
+.shop-now-btn{
+    align-items: center;
+    justify-content: center;
+    margin:  10px 50px;
+    
+    padding: 20px;
+}

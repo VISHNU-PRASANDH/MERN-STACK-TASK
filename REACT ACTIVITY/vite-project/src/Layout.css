@@ -1,0 +1,11 @@
+ul{
+    text-align: center;
+    display:flex;
+    text-decoration: none;
+    list-style-type: none;
+    gap: 20px;
+    
+}
+.text1, .text2, .text3{
+    text-decoration: none;
+}
