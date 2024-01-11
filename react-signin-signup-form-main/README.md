@@ -1,6 +1,2 @@
-# Sliding Sign In & Sign Up Form Using React JS
-  https://www.youtube.com/watch?v=d79TqHpSY3M
-1. ```npm install```
-2. ```npm start```
-
-![HitCount](https://i.ytimg.com/vi/d79TqHpSY3M/maxresdefault.jpg)
+![image](https://github.com/VISHNU-PRASANDH/MERN-STACK-TASK/assets/145892809/547851bf-8925-48d0-babe-9abfbfcfec1c)
+![image](https://github.com/VISHNU-PRASANDH/MERN-STACK-TASK/assets/145892809/2f4fab08-2620-40fb-9a41-d22b1b8197fa)
