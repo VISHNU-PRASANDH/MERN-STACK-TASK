@@ -1,0 +1,66 @@
+.span1{
+    color:red;
+}
+
+.flex-container{
+    display: flex;
+    width: 1500px;
+    
+}
+.show1{
+    color:white;
+    width: 120rem;
+}
+.grid-container{
+    width: 200em;
+    color: white;
+    font-weight:bolder;
+    font-size: larger;
+    
+}
+body{
+    background-color:  rgb(4, 4, 74);
+}
+
+.column {
+    float: left;
+    width: 3px;
+    padding: 3px;
+}
+
+/* .row::after {
+    content: "";
+    clear: both;
+    display: table;
+} */
+
+.row {
+    display: flex;
+    width: 1500px;
+    height: 250px;
+    margin: 10px;
+    /* margin-bottom: 0px; */
+}
+
+/* body{
+    margin:10%
+} */
+  
+  .column {
+    flex: 30px;
+    padding: 5px;
+}
+.grid-container{
+    display: grid;
+    color: white;
+    text-align: center;
+    background-size: cover;
+}
+
+button{
+    margin: 0 40%;
+    padding: 20px;
+    background-color: brown;
+    color: #ffff;
+}
+

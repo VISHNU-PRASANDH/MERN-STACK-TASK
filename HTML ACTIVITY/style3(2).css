@@ -1,0 +1,31 @@
+.container, .h2, .h6{
+color: #FFF;
+font-family: Jost;
+font-size: 20px;
+font-style: normal;
+width: 40%;
+height: 50%;
+}
+body{
+    background-color: black;
+}
+
+.tour_card{
+    display:flex;
+    column-gap: 10px;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+
+}
+.tour_card p{
+    color: white;
+}
+img{
+    width: 100%;
+}
+.tour_card_in{
+    border: 2px solid green;
+    width: 25%;
+    /* flex:content; */
+}
+
